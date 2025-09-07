@@ -1,6 +1,7 @@
 ---
 title: "AthenaAgent"
 image: assets/athenaagent_logo.jpeg
+toc: false
 about:
   template: jolla
   links:
@@ -10,10 +11,20 @@ about:
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/company/athenaagent/
+listing:
+  - id: all-posts
+    contents: "posts"
+    sort: "date desc"
+    exclude:
+      hide: true
+    date-format: "long"
+    type: default
+    categories: true
+    sort-ui: false
+    filter-ui: false
 ---
 
-<center>
-<image src="assets/athenaagent_logo.jpeg" class="img-fluid">
-</center>
-
 Building Intelligent Agents that actually work
+
+::: {#all-posts}
+:::
