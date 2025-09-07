@@ -4,9 +4,10 @@ project:
 
 website:
   title: "AthenaAgent"
+  favicon: assets/athenaagent_logo.jpeg
   open-graph: true
   navbar:
-    left:
+    right:
       - href: index.qmd
         text: Home
       - about.qmd
@@ -14,7 +15,7 @@ website:
 format:
   html:
     theme:
-      light: flatly
+      light: simplex
       dark: darkly
     css: styles.css
     toc: true

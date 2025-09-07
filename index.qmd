@@ -3,4 +3,8 @@ title: "AthenaAgent"
 image: assets/athenaagent_logo.jpeg
 ---
 
+<center>
+<image src="assets/athenaagent_logo.jpeg" class="img-fluid">
+</center>
+
 Building Intelligent Agents that actually work
