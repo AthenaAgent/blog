@@ -1,6 +1,15 @@
 ---
 title: "AthenaAgent"
 image: assets/athenaagent_logo.jpeg
+about:
+  template: jolla
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/athenaagent
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/company/athenaagent/
 ---
 
 <center>
