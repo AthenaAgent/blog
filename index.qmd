@@ -11,20 +11,7 @@ about:
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/company/athenaagent/
-listing:
-  - id: all-posts
-    contents: "posts"
-    sort: "date desc"
-    exclude:
-      hide: true
-    date-format: "long"
-    type: default
-    categories: true
-    sort-ui: false
-    filter-ui: false
 ---
 
-Building Intelligent Agents that actually work
 
-::: {#all-posts}
-:::
+Building Intelligent Agents that actually work
