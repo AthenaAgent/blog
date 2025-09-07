@@ -4,6 +4,7 @@ project:
 
 website:
   title: "AthenaAgent"
+  open-graph: true
   navbar:
     left:
       - href: index.qmd
@@ -17,3 +18,5 @@ format:
       dark: darkly
     css: styles.css
     toc: true
+execute: 
+  force: auto
